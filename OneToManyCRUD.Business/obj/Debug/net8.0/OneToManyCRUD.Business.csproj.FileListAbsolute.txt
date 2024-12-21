@@ -1,0 +1,17 @@
+C:\Users\ulvir\source\repos\OneToManyCRUD\OneToManyCRUD.Business\bin\Debug\net8.0\OneToManyCRUD.Business.deps.json
+C:\Users\ulvir\source\repos\OneToManyCRUD\OneToManyCRUD.Business\bin\Debug\net8.0\OneToManyCRUD.Business.dll
+C:\Users\ulvir\source\repos\OneToManyCRUD\OneToManyCRUD.Business\bin\Debug\net8.0\OneToManyCRUD.Business.pdb
+C:\Users\ulvir\source\repos\OneToManyCRUD\OneToManyCRUD.Business\bin\Debug\net8.0\OneToManyCRUD.Core.dll
+C:\Users\ulvir\source\repos\OneToManyCRUD\OneToManyCRUD.Business\bin\Debug\net8.0\OneToManyCRUD.DAL.dll
+C:\Users\ulvir\source\repos\OneToManyCRUD\OneToManyCRUD.Business\bin\Debug\net8.0\OneToManyCRUD.DAL.pdb
+C:\Users\ulvir\source\repos\OneToManyCRUD\OneToManyCRUD.Business\bin\Debug\net8.0\OneToManyCRUD.Core.pdb
+C:\Users\ulvir\source\repos\OneToManyCRUD\OneToManyCRUD.Business\obj\Debug\net8.0\OneToManyCRUD.Business.csproj.AssemblyReference.cache
+C:\Users\ulvir\source\repos\OneToManyCRUD\OneToManyCRUD.Business\obj\Debug\net8.0\OneToManyCRUD.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulvir\source\repos\OneToManyCRUD\OneToManyCRUD.Business\obj\Debug\net8.0\OneToManyCRUD.Business.AssemblyInfoInputs.cache
+C:\Users\ulvir\source\repos\OneToManyCRUD\OneToManyCRUD.Business\obj\Debug\net8.0\OneToManyCRUD.Business.AssemblyInfo.cs
+C:\Users\ulvir\source\repos\OneToManyCRUD\OneToManyCRUD.Business\obj\Debug\net8.0\OneToManyCRUD.Business.csproj.CoreCompileInputs.cache
+C:\Users\ulvir\source\repos\OneToManyCRUD\OneToManyCRUD.Business\obj\Debug\net8.0\OneToMan.E43AE40E.Up2Date
+C:\Users\ulvir\source\repos\OneToManyCRUD\OneToManyCRUD.Business\obj\Debug\net8.0\OneToManyCRUD.Business.dll
+C:\Users\ulvir\source\repos\OneToManyCRUD\OneToManyCRUD.Business\obj\Debug\net8.0\refint\OneToManyCRUD.Business.dll
+C:\Users\ulvir\source\repos\OneToManyCRUD\OneToManyCRUD.Business\obj\Debug\net8.0\OneToManyCRUD.Business.pdb
+C:\Users\ulvir\source\repos\OneToManyCRUD\OneToManyCRUD.Business\obj\Debug\net8.0\ref\OneToManyCRUD.Business.dll

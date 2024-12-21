@@ -1,0 +1,6 @@
+@OneToManyCRUD.API_HostAddress = http://localhost:5140
+
+GET {{OneToManyCRUD.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

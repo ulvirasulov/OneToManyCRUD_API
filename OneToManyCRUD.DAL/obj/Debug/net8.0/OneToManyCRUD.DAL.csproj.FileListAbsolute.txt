@@ -1,0 +1,17 @@
+C:\Users\ulvir\source\repos\OneToManyCRUD\OneToManyCRUD.DAL\bin\Debug\net8.0\OneToManyCRUD.DAL.deps.json
+C:\Users\ulvir\source\repos\OneToManyCRUD\OneToManyCRUD.DAL\bin\Debug\net8.0\OneToManyCRUD.DAL.runtimeconfig.json
+C:\Users\ulvir\source\repos\OneToManyCRUD\OneToManyCRUD.DAL\bin\Debug\net8.0\OneToManyCRUD.DAL.dll
+C:\Users\ulvir\source\repos\OneToManyCRUD\OneToManyCRUD.DAL\bin\Debug\net8.0\OneToManyCRUD.DAL.pdb
+C:\Users\ulvir\source\repos\OneToManyCRUD\OneToManyCRUD.DAL\bin\Debug\net8.0\OneToManyCRUD.Core.dll
+C:\Users\ulvir\source\repos\OneToManyCRUD\OneToManyCRUD.DAL\bin\Debug\net8.0\OneToManyCRUD.Core.pdb
+C:\Users\ulvir\source\repos\OneToManyCRUD\OneToManyCRUD.DAL\obj\Debug\net8.0\OneToManyCRUD.DAL.csproj.AssemblyReference.cache
+C:\Users\ulvir\source\repos\OneToManyCRUD\OneToManyCRUD.DAL\obj\Debug\net8.0\OneToManyCRUD.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulvir\source\repos\OneToManyCRUD\OneToManyCRUD.DAL\obj\Debug\net8.0\OneToManyCRUD.DAL.AssemblyInfoInputs.cache
+C:\Users\ulvir\source\repos\OneToManyCRUD\OneToManyCRUD.DAL\obj\Debug\net8.0\OneToManyCRUD.DAL.AssemblyInfo.cs
+C:\Users\ulvir\source\repos\OneToManyCRUD\OneToManyCRUD.DAL\obj\Debug\net8.0\OneToManyCRUD.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ulvir\source\repos\OneToManyCRUD\OneToManyCRUD.DAL\obj\Debug\net8.0\OneToMan.CBC485B3.Up2Date
+C:\Users\ulvir\source\repos\OneToManyCRUD\OneToManyCRUD.DAL\obj\Debug\net8.0\OneToManyCRUD.DAL.dll
+C:\Users\ulvir\source\repos\OneToManyCRUD\OneToManyCRUD.DAL\obj\Debug\net8.0\refint\OneToManyCRUD.DAL.dll
+C:\Users\ulvir\source\repos\OneToManyCRUD\OneToManyCRUD.DAL\obj\Debug\net8.0\OneToManyCRUD.DAL.pdb
+C:\Users\ulvir\source\repos\OneToManyCRUD\OneToManyCRUD.DAL\obj\Debug\net8.0\OneToManyCRUD.DAL.genruntimeconfig.cache
+C:\Users\ulvir\source\repos\OneToManyCRUD\OneToManyCRUD.DAL\obj\Debug\net8.0\ref\OneToManyCRUD.DAL.dll
