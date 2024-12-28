@@ -24,6 +24,10 @@ namespace OneToManyCRUD.DAL.Context.Configurations
                    .WithMany(c => c.Products)
                    .HasForeignKey(p => p.CategoryId)
                    .OnDelete(DeleteBehavior.Restrict);
+
+            builder.HasMany(p => p.ProductTags)
+               .WithOne(pt => pt.Product)
+               .HasForeignKey(pt => pt.ProductId);
         }
     }
 

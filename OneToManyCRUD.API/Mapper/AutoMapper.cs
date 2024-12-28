@@ -1,6 +1,8 @@
 ﻿using AutoMapper;
 using OneToManyCRUD.API.DTOs.CategoryDTOs;
 using OneToManyCRUD.API.DTOs.ProductDTOs;
+using OneToManyCRUD.API.DTOs.TagDTOs;
+using OneToManyCRUD.Business.DTOs.CategoryDTOs;
 using OneToManyCRUD.Core.Entities;
 
 namespace OneToManyCRUD.API.Mapper
@@ -13,6 +15,7 @@ namespace OneToManyCRUD.API.Mapper
             CreateMap<UpdateProductDTO, Product>();
             CreateMap<CreateCategoryDTO, Category>();
             CreateMap<UpdateCategoryDTO, Category>();
+            CreateMap<CreateTagDTO, Tags>();
         }
     }
 }

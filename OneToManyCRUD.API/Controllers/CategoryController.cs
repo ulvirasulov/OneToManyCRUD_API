@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Writers;
 using OneToManyCRUD.API.DTOs.CategoryDTOs;
+using OneToManyCRUD.Business.DTOs.CategoryDTOs;
 using OneToManyCRUD.Core.Entities;
 using OneToManyCRUD.DAL.Context;
 

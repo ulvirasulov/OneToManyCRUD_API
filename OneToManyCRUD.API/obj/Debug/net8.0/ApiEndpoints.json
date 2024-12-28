@@ -19,7 +19,7 @@
     "Parameters": [
       {
         "Name": "categoryDTO",
-        "Type": "OneToManyCRUD.API.DTOs.CategoryDTOs.CreateCategoryDTO",
+        "Type": "OneToManyCRUD.Business.DTOs.CategoryDTOs.CreateCategoryDTO",
         "IsRequired": true
       }
     ],
@@ -152,6 +152,48 @@
       {
         "Name": "dto",
         "Type": "OneToManyCRUD.API.DTOs.ProductDTOs.UpdateProductDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OneToManyCRUD.API.Controllers.TagController",
+    "Method": "GetAll",
+    "RelativePath": "api/Tag",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OneToManyCRUD.API.Controllers.TagController",
+    "Method": "Create",
+    "RelativePath": "api/Tag",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createTagDto",
+        "Type": "OneToManyCRUD.API.DTOs.TagDTOs.CreateTagDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OneToManyCRUD.API.Controllers.TagController",
+    "Method": "Get",
+    "RelativePath": "api/Tag/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
         "IsRequired": true
       }
     ],

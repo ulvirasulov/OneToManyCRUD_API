@@ -15,3 +15,21 @@ C:\Users\ulvir\source\repos\OneToManyCRUD\OneToManyCRUD.DAL\obj\Debug\net8.0\ref
 C:\Users\ulvir\source\repos\OneToManyCRUD\OneToManyCRUD.DAL\obj\Debug\net8.0\OneToManyCRUD.DAL.pdb
 C:\Users\ulvir\source\repos\OneToManyCRUD\OneToManyCRUD.DAL\obj\Debug\net8.0\OneToManyCRUD.DAL.genruntimeconfig.cache
 C:\Users\ulvir\source\repos\OneToManyCRUD\OneToManyCRUD.DAL\obj\Debug\net8.0\ref\OneToManyCRUD.DAL.dll
+C:\Users\I Novbe\Desktop\OneToManyCRUD_API\OneToManyCRUD.DAL\bin\Debug\net8.0\OneToManyCRUD.DAL.deps.json
+C:\Users\I Novbe\Desktop\OneToManyCRUD_API\OneToManyCRUD.DAL\bin\Debug\net8.0\OneToManyCRUD.DAL.runtimeconfig.json
+C:\Users\I Novbe\Desktop\OneToManyCRUD_API\OneToManyCRUD.DAL\bin\Debug\net8.0\OneToManyCRUD.DAL.dll
+C:\Users\I Novbe\Desktop\OneToManyCRUD_API\OneToManyCRUD.DAL\bin\Debug\net8.0\OneToManyCRUD.DAL.pdb
+C:\Users\I Novbe\Desktop\OneToManyCRUD_API\OneToManyCRUD.DAL\bin\Debug\net8.0\OneToManyCRUD.Core.dll
+C:\Users\I Novbe\Desktop\OneToManyCRUD_API\OneToManyCRUD.DAL\bin\Debug\net8.0\OneToManyCRUD.Core.pdb
+C:\Users\I Novbe\Desktop\OneToManyCRUD_API\OneToManyCRUD.DAL\obj\Debug\net8.0\OneToManyCRUD.DAL.csproj.AssemblyReference.cache
+C:\Users\I Novbe\Desktop\OneToManyCRUD_API\OneToManyCRUD.DAL\obj\Debug\net8.0\OneToManyCRUD.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I Novbe\Desktop\OneToManyCRUD_API\OneToManyCRUD.DAL\obj\Debug\net8.0\OneToManyCRUD.DAL.AssemblyInfoInputs.cache
+C:\Users\I Novbe\Desktop\OneToManyCRUD_API\OneToManyCRUD.DAL\obj\Debug\net8.0\OneToManyCRUD.DAL.AssemblyInfo.cs
+C:\Users\I Novbe\Desktop\OneToManyCRUD_API\OneToManyCRUD.DAL\obj\Debug\net8.0\OneToManyCRUD.DAL.csproj.CoreCompileInputs.cache
+C:\Users\I Novbe\Desktop\OneToManyCRUD_API\OneToManyCRUD.DAL\obj\Debug\net8.0\OneToManyCRUD.DAL.sourcelink.json
+C:\Users\I Novbe\Desktop\OneToManyCRUD_API\OneToManyCRUD.DAL\obj\Debug\net8.0\OneToMan.CBC485B3.Up2Date
+C:\Users\I Novbe\Desktop\OneToManyCRUD_API\OneToManyCRUD.DAL\obj\Debug\net8.0\OneToManyCRUD.DAL.dll
+C:\Users\I Novbe\Desktop\OneToManyCRUD_API\OneToManyCRUD.DAL\obj\Debug\net8.0\refint\OneToManyCRUD.DAL.dll
+C:\Users\I Novbe\Desktop\OneToManyCRUD_API\OneToManyCRUD.DAL\obj\Debug\net8.0\OneToManyCRUD.DAL.pdb
+C:\Users\I Novbe\Desktop\OneToManyCRUD_API\OneToManyCRUD.DAL\obj\Debug\net8.0\OneToManyCRUD.DAL.genruntimeconfig.cache
+C:\Users\I Novbe\Desktop\OneToManyCRUD_API\OneToManyCRUD.DAL\obj\Debug\net8.0\ref\OneToManyCRUD.DAL.dll

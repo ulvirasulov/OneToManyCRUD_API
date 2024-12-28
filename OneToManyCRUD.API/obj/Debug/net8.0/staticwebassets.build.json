@@ -1,12 +1,11 @@
 {
   "Version": 1,
-  "Hash": "s1TChFlQcC8KHnrbsjwtdzhMDfSDrQJ/C087IWm3A+Q=",
+  "Hash": "wcESg9MeXGKV8nZuEKP70OrK9lVAZGNCRuNqDTM2Kww=",
   "Source": "OneToManyCRUD.API",
   "BasePath": "_content/OneToManyCRUD.API",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "Assets": []
 }

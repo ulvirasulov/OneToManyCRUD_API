@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OneToManyCRUD.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+370e1f1486fb92d588a496882eb8ee6aaa96dbd0")]
 [assembly: System.Reflection.AssemblyProductAttribute("OneToManyCRUD.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OneToManyCRUD.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

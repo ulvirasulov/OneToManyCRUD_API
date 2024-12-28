@@ -9,3 +9,15 @@ C:\Users\ulvir\source\repos\OneToManyCRUD\OneToManyCRUD.Core\obj\Debug\net8.0\On
 C:\Users\ulvir\source\repos\OneToManyCRUD\OneToManyCRUD.Core\obj\Debug\net8.0\refint\OneToManyCRUD.Core.dll
 C:\Users\ulvir\source\repos\OneToManyCRUD\OneToManyCRUD.Core\obj\Debug\net8.0\OneToManyCRUD.Core.pdb
 C:\Users\ulvir\source\repos\OneToManyCRUD\OneToManyCRUD.Core\obj\Debug\net8.0\ref\OneToManyCRUD.Core.dll
+C:\Users\I Novbe\Desktop\OneToManyCRUD_API\OneToManyCRUD.Core\bin\Debug\net8.0\OneToManyCRUD.Core.deps.json
+C:\Users\I Novbe\Desktop\OneToManyCRUD_API\OneToManyCRUD.Core\bin\Debug\net8.0\OneToManyCRUD.Core.dll
+C:\Users\I Novbe\Desktop\OneToManyCRUD_API\OneToManyCRUD.Core\bin\Debug\net8.0\OneToManyCRUD.Core.pdb
+C:\Users\I Novbe\Desktop\OneToManyCRUD_API\OneToManyCRUD.Core\obj\Debug\net8.0\OneToManyCRUD.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I Novbe\Desktop\OneToManyCRUD_API\OneToManyCRUD.Core\obj\Debug\net8.0\OneToManyCRUD.Core.AssemblyInfoInputs.cache
+C:\Users\I Novbe\Desktop\OneToManyCRUD_API\OneToManyCRUD.Core\obj\Debug\net8.0\OneToManyCRUD.Core.AssemblyInfo.cs
+C:\Users\I Novbe\Desktop\OneToManyCRUD_API\OneToManyCRUD.Core\obj\Debug\net8.0\OneToManyCRUD.Core.csproj.CoreCompileInputs.cache
+C:\Users\I Novbe\Desktop\OneToManyCRUD_API\OneToManyCRUD.Core\obj\Debug\net8.0\OneToManyCRUD.Core.sourcelink.json
+C:\Users\I Novbe\Desktop\OneToManyCRUD_API\OneToManyCRUD.Core\obj\Debug\net8.0\OneToManyCRUD.Core.dll
+C:\Users\I Novbe\Desktop\OneToManyCRUD_API\OneToManyCRUD.Core\obj\Debug\net8.0\refint\OneToManyCRUD.Core.dll
+C:\Users\I Novbe\Desktop\OneToManyCRUD_API\OneToManyCRUD.Core\obj\Debug\net8.0\OneToManyCRUD.Core.pdb
+C:\Users\I Novbe\Desktop\OneToManyCRUD_API\OneToManyCRUD.Core\obj\Debug\net8.0\ref\OneToManyCRUD.Core.dll

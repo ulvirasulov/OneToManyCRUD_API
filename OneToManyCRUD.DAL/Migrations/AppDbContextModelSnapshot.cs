@@ -65,6 +65,46 @@ namespace OneToManyCRUD.DAL.Migrations
                     b.ToTable("Products");
                 });
 
+            modelBuilder.Entity("OneToManyCRUD.Core.Entities.ProductTag", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<int>("ProductId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("TagId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("ProductId");
+
+                    b.HasIndex("TagId");
+
+                    b.ToTable("ProductTag");
+                });
+
+            modelBuilder.Entity("OneToManyCRUD.Core.Entities.Tags", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Tags");
+                });
+
             modelBuilder.Entity("OneToManyCRUD.Core.Entities.Product", b =>
                 {
                     b.HasOne("OneToManyCRUD.Core.Entities.Category", "Category")
@@ -76,9 +116,38 @@ namespace OneToManyCRUD.DAL.Migrations
                     b.Navigation("Category");
                 });
 
+            modelBuilder.Entity("OneToManyCRUD.Core.Entities.ProductTag", b =>
+                {
+                    b.HasOne("OneToManyCRUD.Core.Entities.Product", "Product")
+                        .WithMany("ProductTags")
+                        .HasForeignKey("ProductId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("OneToManyCRUD.Core.Entities.Tags", "Tag")
+                        .WithMany("ProductTags")
+                        .HasForeignKey("TagId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Product");
+
+                    b.Navigation("Tag");
+                });
+
             modelBuilder.Entity("OneToManyCRUD.Core.Entities.Category", b =>
                 {
                     b.Navigation("Products");
+                });
+
+            modelBuilder.Entity("OneToManyCRUD.Core.Entities.Product", b =>
+                {
+                    b.Navigation("ProductTags");
+                });
+
+            modelBuilder.Entity("OneToManyCRUD.Core.Entities.Tags", b =>
+                {
+                    b.Navigation("ProductTags");
                 });
 #pragma warning restore 612, 618
         }

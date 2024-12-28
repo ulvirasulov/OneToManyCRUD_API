@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace OneToManyCRUD.API.DTOs.CategoryDTOs
+namespace OneToManyCRUD.Business.DTOs.CategoryDTOs
 {
     public class CreateCategoryDTO
     {
